@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ##
 # Allows attributes to be declared as lazy, meaning that they won't be
 # computed until they are asked for.

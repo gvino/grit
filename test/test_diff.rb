@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/helper'
 
 class TestDiff < Test::Unit::TestCase

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'test/unit'
 
 tests = Dir["#{File.dirname(__FILE__)}/test_*.rb"]
